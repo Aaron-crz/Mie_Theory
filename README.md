@@ -2,4 +2,6 @@
 Useful tool about Mie theory
 
 
-## jaja
+-----------------------------------indice de refracción--------------------------------------------------------------------------------------
+Ocupa los archivos "thin.csv" y "Jhonson.csv" para graficar los indices de refraccion de nanopartículas de oro en bulto y oro en peliculas delgadas.
+---------------------------------------------------------------------------------------------------------------------------------------------
