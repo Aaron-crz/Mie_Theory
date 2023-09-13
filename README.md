@@ -17,5 +17,8 @@ Useful tool about Mie theory
     --------Mie bueno.py-----
     Codigo limpio
 
+    --------spectros-semiempirico.opj-------
+    Grafícas de espectros de absorbancia de acuerdo al modelo semiempirico. Se abre en el software Origin
+
 ## Imprtante:
 Todos los programas requieren del archivo Jhonson.csv en el directorio de ejecución
